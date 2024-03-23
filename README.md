@@ -1,0 +1,1 @@
+#this is a quiz app which small functionality but responsive in all device. created using HTML , CSS AND JS
